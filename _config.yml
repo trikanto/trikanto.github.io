@@ -27,3 +27,5 @@ github:
 post:
   template: _post_template.md
   extension: md
+
+editor: subl
