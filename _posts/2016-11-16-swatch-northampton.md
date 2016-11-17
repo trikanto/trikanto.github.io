@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Swatching: Northampton"
+comments: true
 ---
 
 <img src="/images/swatches/northampton.jpg"/>
