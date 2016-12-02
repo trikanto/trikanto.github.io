@@ -12,7 +12,7 @@ I've got a weekend with knitting ahead of me, with three projects currently on m
 
 The first is my scale mitts (or mitt, since so far there's only part of one). These are the reason I first started knitting! I was inspiredby [CraftyMutt's scale-knitting blog posts](http://craftymutt.blogspot.com/p/learn-to-knit-with-scales.html). Having done scale maille the "usual" way before, with aluminum chainmaille links, the idea of warm fuzzy scale mitts was so appealing!
 
-<img src="/images/dec16/scales.jpg"/>
+<img src="/images/dec16/scales.JPG"/>
 
 The problem is, I actually am not a fan of knitting scales. It's _slow_, and I have to plan around them, and ...
 
