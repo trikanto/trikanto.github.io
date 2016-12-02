@@ -20,7 +20,7 @@ The problem is, I actually am not a fan of knitting scales. It's _slow_, and I h
 
 So I set that aside, and took a new project with me for my Thanksgiving travels. This is my first attempt at colorwork in a while, and my first attempt at writing my own colorwork design. It's a gift, so I won't say too much about it, but...
 
-<img src="/images/dec16/yarn.jpg"/>
+<img src="/images/dec16/yarn.JPG"/>
 
 Well, it's no surprise that colorwork is _fiddly_. Why did I decide it would be worth it to have three colors in a single row ?? I haven't even finished the first color section repeat, and I have two weeks left to finish this one. _Argh!_
 
