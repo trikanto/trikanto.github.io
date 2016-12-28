@@ -4,9 +4,13 @@ title: "Aghast Hat Pattern"
 comments: true
 ---
 
+_[Printable PDF version of this pattern](/images/12-25-16/printable-aghast-hat-pattern.pdf)_
+
 This Pokémon-inspired hat reminds me of the "Who's that Pokemon??" segments from the TV show. It feature sprites of Ghastly and Gengar.
 
 I knit this with sport-weight yarn in three colors (purple, black, and white) but it would also work well in two colors.
+
+<img src="/images/12-25-16/gengar-hat.jpg"/>
 
 <hr/>
 
