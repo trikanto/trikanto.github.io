@@ -2,16 +2,19 @@
 layout: post
 title: "FO: Aghast Hat"
 comments: true
+excerpt_separator: <!--more-->
 ---
+
+It's done! It's done!
+
+<img src="/images/12-25-16/gengar-hat.jpg"/>
+
+<!--more-->
 
 <hr/>
 Project: [Aghast](http://www.ravelry.com/projects/trikanto/aghast)<br/>
 Pattern: none (I made it up!)
 <hr/>
-
-It's done! It's done!
-
-<img src="/images/12-25-16/gengar-hat.jpg"/>
 
 For Christmas / our anniversary (I know, the timing is ... interesting?) I wanted to knit a Gengar-themed hat for my boyfriend. So I opened up Google Sheets and spent some time coloring in cells on the pattern. Ideally I would have been doing this by hand. I much prefer sketching ideas out with pen and paper, but I didn't have any properly-sized graph paper (stockinette is, it turns out, not comprised of squares, but rather rectangular-ish "pixels"). Maybe I'll have to get my hands on some for next time.
 

@@ -2,9 +2,14 @@
 layout: post
 title: "Swatching: Northampton"
 comments: true
+excerpt_separator: <!--more-->
 ---
 
+I've been looking for a basic, affordable worsted-weight wool yarn, so I picked up a batch of Northampton with my last order from WEBS.
+
 <img src="/images/swatches/northampton.jpg"/>
+
+<!--more-->
 
 ## yarn
 

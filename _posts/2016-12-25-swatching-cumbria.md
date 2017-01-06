@@ -2,9 +2,14 @@
 layout: post
 title: "Swatching: Cumbria"
 comments: true
+excerpt_separator: <!--more-->
 ---
 
+Cumbria was one of the many skeins of yarn I received as a gift this month. (Between Hanukkah, and Christmas, and my birthday, December is always busy.) I've been eyeing it for a while and was excited to swatch with it.
+
 <img src="/images/12-25-16/cumbria-swatch.jpg"/>
+
+<!--more-->
 
 ## yarn
 

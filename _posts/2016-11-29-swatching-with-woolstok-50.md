@@ -4,6 +4,8 @@ title: "Swatching with Woolstok 50"
 comments: true
 ---
 
+Hats are basically just wearable swatches, right? I wandered into my LYS, feeling a bit under the weather, and walked out with two skeins of Woolstok 50. Then I promptly went home and knit a hat. Now I'm just dithering about whether or not to give the hat away, or keep it.
+
 <img src="/images/swatches/woolstok.JPG"/>
 
 ## yarn
@@ -17,8 +19,6 @@ comments: true
 15 stitches and 24 rows = 4 inches, on size 7 needles.
 
 ## comments
-
-Hats are basically just wearable swatches, right? I wandered into my LYS, feeling a bit under the weather, and walked out with two skeins of this. Then I promptly went home and knit a hat. Now I'm just dithering about whether or not to give the hat away, or keep it...
 
 Woolstok knits up very smoothly. It feels soft, but still wooly. Knitting with it was a pleasure.
 
